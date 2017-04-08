@@ -1,5 +1,5 @@
 # Project 2: Supervised Learning
-## Building a Student Intervention System
+## Building a Student_Intervention_Predict_System
 
 
 
@@ -7,15 +7,6 @@
 ## 预测这个学生的成绩水平,最终实现有效的预测其 期末考试成绩,
 ## 使得学校&老师在学期中途可以根据系统预测结果对每一位学生关注到其学业的变化趋势.
 ## 能够尽早对学生教育实现有效监督和提前管理
-
-### Install
-
-This project requires **Python 2.7** and the following Python libraries installed:
-
-- [NumPy](http://www.numpy.org/)
-- [Pandas](http://pandas.pydata.org)
-- [scikit-learn](http://scikit-learn.org/stable/)
-
  
 
 ## Data
@@ -53,4 +44,13 @@ The dataset used in this project is included as `student-data.csv`. This dataset
 - `health` : current health status (numeric: from 1 - very bad to 5 - very good)
 - `absences` : number of school absences (numeric: from 0 to 93)
 - `passed` : did the student pass the final exam (binary: yes or no)
-# Student_Intervention_Predict_System
+
+
+
+### Install
+This project requires **Python 2.7** and the following Python libraries installed:
+
+- [NumPy](http://www.numpy.org/)
+- [Pandas](http://pandas.pydata.org)
+- [scikit-learn](http://scikit-learn.org/stable/)
+
