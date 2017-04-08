@@ -1,6 +1,11 @@
 # Project 2: Supervised Learning
 ## Building a Student Intervention System
 
+
+
+## 利用如下大量学生的关联信息(包括:个人,学校,性别,年龄,家庭情况,学生行为如缺课,喝酒等)建立一个逻辑回归分析系统  
+## 预测这个学生的成绩水平,最终预测其 期末考试成绩.
+
 ### Install
 
 This project requires **Python 2.7** and the following Python libraries installed:
@@ -9,22 +14,7 @@ This project requires **Python 2.7** and the following Python libraries installe
 - [Pandas](http://pandas.pydata.org)
 - [scikit-learn](http://scikit-learn.org/stable/)
 
-You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
-
-Udacity recommends our students install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project. 
-
-### Code
-
-Template code is provided in the notebook `student_intervention.ipynb` notebook file. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project.
-
-### Run
-
-In a terminal or command window, navigate to the top-level project directory `student_intervention/` (that contains this README) and run one of the following commands:
-
-```ipython notebook student_intervention.ipynb```  
-```jupyter notebook student_intervention.ipynb```
-
-This will open the iPython Notebook software and project file in your browser.
+ 
 
 ## Data
 
