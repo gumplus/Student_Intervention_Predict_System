@@ -10,7 +10,17 @@
 ## 能够尽早对学生教育实现有效监督和提前管理
  
 
-## Data
+
+## The GridSearch and listing comparing with others
+## compare its performance with the accuracy of prediction to select the best scheme to construct model
+## Associated with a large number of students (including the following information: individual, school, gender, age, family situation, student behavior such as school, drinking etc.) to establish a forecasting system
+## predicted that the level of student achievement, realize the effective prediction of final exam,
+## The school teacher 
+## & in the middle of a term according to the system prediction results for each student to pay attention to the trend of education.
+## as soon as possible to the education of students to achieve effective supervision and management in advance
+
+
+# Data
 
 The dataset used in this project is included as `student-data.csv`. This dataset has the following attributes:
 
